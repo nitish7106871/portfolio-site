@@ -24,8 +24,8 @@ export default function Achievements() {
         <div className="mt-8 text-center">
           <h3 className="text-xl font-semibold mb-4">Coding Profiles</h3>
           <div className="flex justify-center space-x-4">
-            <a href="https://leetcode.com/nitishkumar" target="_blank" rel="noopener noreferrer" className="bg-yellow-400 text-gray-900 px-4 py-2 rounded-full hover:bg-yellow-500 transition-colors">LeetCode</a>
-            <a href="https://auth.geeksforgeeks.org/user/nitishkumar" target="_blank" rel="noopener noreferrer" className="bg-green-500 text-white px-4 py-2 rounded-full hover:bg-green-600  transition-colors">GeeksforGeeks</a>
+            <a href="https://leetcode.com/u/nitish_kumar905/" target="_blank" rel="noopener noreferrer" className="bg-yellow-400 text-gray-900 px-4 py-2 rounded-full hover:bg-yellow-500 transition-colors">LeetCode</a>
+            <a href="https://www.geeksforgeeks.org/user/nitish21tt8g/" target="_blank" rel="noopener noreferrer" className="bg-green-500 text-white px-4 py-2 rounded-full hover:bg-green-600  transition-colors">GeeksforGeeks</a>
           </div>
         </div>
       </div>

@@ -6,13 +6,13 @@ const projects = [
     title: "Counseling Platform for Mental Health",
     description: "A mental health counseling platform using HTML, CSS, JavaScript, and Node.js. Features user authentication, real-time chat, and privacy measures.",
     technologies: ["HTML", "CSS", "JavaScript", "Node.js"],
-    image: "/placeholder.svg"
+    image: "/mentalhealth.jpg"
   },
   {
     title: "Vestra (Myntra Clone)",
     description: "An e-commerce platform modeled after Myntra with HTML, CSS, JavaScript, and a responsive interface. Includes advanced search and secure payment functionality.",
     technologies: ["HTML", "CSS", "JavaScript"],
-    image: "/placeholder.svg"
+    image: "/Vestra_logo.png"
   }
 ]
 

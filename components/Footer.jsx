@@ -66,7 +66,7 @@ export default function Footer() {
           <div>
             <h2 className="text-2xl font-bold mb-4">Connect With Me</h2>
             <div className="flex space-x-4 mb-4">
-              <a href="https://linkedin.com/in/nitishkumar" target="_blank" rel="noopener noreferrer" className="text-white hover:text-blue-400 transition-colors">
+              <a href="https://www.linkedin.com/in/nitish-kumar-b26379240/" target="_blank" rel="noopener noreferrer" className="text-white hover:text-blue-400 transition-colors">
                 <Linkedin size={24} />
               </a>
               <a href="https://github.com/nitishkumar" target="_blank" rel="noopener noreferrer" className="text-white hover:text-blue-400 transition-colors">
